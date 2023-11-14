@@ -1,0 +1,11 @@
+ipython
+pandas
+numpy
+textblob
+wikipedia
+pytest
+pytest-cov
+lint
+black
+fire
+
